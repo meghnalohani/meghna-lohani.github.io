@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Meghna
+## A Quiet Archive
 
 I’m a software engineer who likes collecting things that stay —
 lines from books, thoughts from games, colors from paintings,
