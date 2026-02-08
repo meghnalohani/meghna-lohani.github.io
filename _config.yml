@@ -1,0 +1,14 @@
+title: Meghna
+description: A quiet archive of things I read, play, and create.
+theme: minima
+
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - about.md
+  - reading.md
+  - painting.md
+  - board-games.md
+  - coding.md
+  - aws.md
